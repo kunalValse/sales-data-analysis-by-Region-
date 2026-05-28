@@ -1,5 +1,5 @@
-# Sales Performance MIS Dashboard
-## Excel · SQL · Power BI
+# Sales Performance MIS Report
+## Excel · SQL
 
 ### Project Overview
 Built an end-to-end MIS and analytics report for a 
@@ -20,15 +20,12 @@ sales across regions, channels, and products
   inventory vs sales
 - SQL queries for product revenue, 
   channel analysis, and inventory comparison
-- Power BI dashboard with KPI cards, 
-  bar charts, trend line, slicers, 
-  and DAX profit margin measure
 
 ### Key Insights
 - Online channel drove highest revenue (₹28.5M)
-- Loan A was top performing product (₹13.8M revenue)
+- Loan A was top performing product (₹13.8M)
 - North region contributed highest sales volume
 - Average profit margin across all products: ~27%
 
 ### Tools Used
-Excel | SQL | Power BI | DAX | Power Query
+Excel | SQL
